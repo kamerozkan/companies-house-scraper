@@ -1,0 +1,89 @@
+[
+  {
+    "companyNumber": "17455251",
+    "companyName": "2OUMWRAPS LTD",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "companyTypeLabel": "Private limited company",
+    "companySubtype": null,
+    "incorporationDate": "2026-09-12",
+    "dissolutionDate": null,
+    "sicCodes": [
+      "56102"
+    ],
+    "registeredOfficeAddress": "50 Ashley Court Grand Avenue Hove England BN3 2NN",
+    "postcode": "BN3 2NN",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/17455251",
+    "companyStatusText": "Active",
+    "sicDescriptions": [
+      "56102 - Unlicensed restaurants and cafes"
+    ],
+    "nextAccountsMadeUpTo": "2027-09-30",
+    "nextAccountsDueBy": "2028-06-12",
+    "accountsOverdue": false,
+    "nextConfirmationStatementDate": "2027-09-11",
+    "nextConfirmationStatementDueBy": "2027-09-25",
+    "confirmationStatementOverdue": false,
+    "previousNames": [],
+    "searchQuery": "SIC 56101, 56102 | incorporated 2026-09-12 to 2026-10-12 | status active",
+    "scrapedAt": "2026-10-12T17:45:19+00:00"
+  },
+  {
+    "companyNumber": "17455181",
+    "companyName": "INDIAN KITCHEN BRAUNTON LTD",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "companyTypeLabel": "Private limited company",
+    "companySubtype": null,
+    "incorporationDate": "2026-09-12",
+    "dissolutionDate": null,
+    "sicCodes": [
+      "56101"
+    ],
+    "registeredOfficeAddress": "1 North Street Braunton England EX33 1AJ",
+    "postcode": "EX33 1AJ",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/17455181",
+    "companyStatusText": "Active",
+    "sicDescriptions": [
+      "56101 - Licensed restaurants"
+    ],
+    "nextAccountsMadeUpTo": "2027-09-30",
+    "nextAccountsDueBy": "2028-06-12",
+    "accountsOverdue": false,
+    "nextConfirmationStatementDate": "2027-09-11",
+    "nextConfirmationStatementDueBy": "2027-09-25",
+    "confirmationStatementOverdue": false,
+    "previousNames": [],
+    "searchQuery": "SIC 56101, 56102 | incorporated 2026-09-12 to 2026-10-12 | status active",
+    "scrapedAt": "2026-10-12T17:45:19+00:00"
+  },
+  {
+    "companyNumber": "17455837",
+    "companyName": "GRILL AND PFC LTD",
+    "companyStatus": "active",
+    "companyType": "ltd",
+    "companyTypeLabel": "Private limited company",
+    "companySubtype": null,
+    "incorporationDate": "2026-09-14",
+    "dissolutionDate": null,
+    "sicCodes": [
+      "56102"
+    ],
+    "registeredOfficeAddress": "Unit 6 80a Ashfield Street London England E1 2BJ",
+    "postcode": "E1 2BJ",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/17455837",
+    "companyStatusText": "Active",
+    "sicDescriptions": [
+      "56102 - Unlicensed restaurants and cafes"
+    ],
+    "nextAccountsMadeUpTo": "2027-09-30",
+    "nextAccountsDueBy": "2028-06-14",
+    "accountsOverdue": false,
+    "nextConfirmationStatementDate": "2027-09-13",
+    "nextConfirmationStatementDueBy": "2027-09-27",
+    "confirmationStatementOverdue": false,
+    "previousNames": [],
+    "searchQuery": "SIC 56101, 56102 | incorporated 2026-09-12 to 2026-10-12 | status active",
+    "scrapedAt": "2026-10-12T17:45:20+00:00"
+  }
+]
